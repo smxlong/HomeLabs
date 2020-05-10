@@ -10,3 +10,4 @@ you earn to see how fast you're progressing.
 ## Labs
 
 * [lab001: Setting up GitHub](./lab001/README.md) - 100 points
+* [lab002: Forking the HomeLabs repo](./lab002/README.md) - 100 points
