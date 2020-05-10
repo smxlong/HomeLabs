@@ -7,6 +7,22 @@ Welcome to HomeLabs. This is a lab series for learning programming.
 * Java 11
 * VSCode
 
+## Staying updated
+
+To stay up to date with the latest labs, run the following command in the terminal
+in your HomeLabs directory:
+
+```
+git remote add homelabs https://github.com/smxlong/HomeLabs
+```
+
+This only needs to be done once. Then, when you want to pull the latest labs
+from HomeLabs, you can run this command:
+
+```
+git pull homelabs master
+```
+
 ## Points
 
 Each lab is worth a certain amount of points. Keep track of the points
