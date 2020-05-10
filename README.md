@@ -2,6 +2,11 @@
 
 Welcome to HomeLabs. This is a lab series for learning programming.
 
+## Required software
+
+* Java 11
+* VSCode
+
 ## Points
 
 Each lab is worth a certain amount of points. Keep track of the points
