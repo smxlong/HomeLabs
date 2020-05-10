@@ -1,10 +1,12 @@
-# Lab 003: Creating a file on GitHub
+# Lab 003: Editing a file on GitHub
 
 ### Points: 25
 
 Usually, you edit code and other files on your own computer, and then upload
 ("push") those changes to GitHub when you are ready. But GitHub also lets
 you edit files directly on the GitHub website.
+
+## Edit this file
 
 To earn 25 easy points, edit this file and add your signature to the bottom.
 
