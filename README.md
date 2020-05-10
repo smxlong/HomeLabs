@@ -17,3 +17,4 @@ you earn to see how fast you're progressing.
 * [Lab 001: Setting up GitHub](./lab001/README.md) - 100 points
 * [Lab 002: Forking the HomeLabs repo](./lab002/README.md) - 100 points
 * [Lab 003: Editing a file on GitHub](./lab003/README.md) - 25 points
+* [Lab 004: Cloning your HomeLabs fork onto your computer](./lab004/README.md) - 100 points
