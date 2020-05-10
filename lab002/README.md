@@ -22,4 +22,7 @@ instructions, keeping everything nice and organized as you complete the labs.
 
 When you are done, you'll have your very own copy of these labs, on GitHub,
 ready for you to work on. You'll be able to find your fork in your repository
-list on GitHub, [here](https://github.com/smxlong?tab=repositories).
+list on GitHub. To see your repositories, go to this URL (substitute your user
+name in the place shown):
+
+`https://github.com/<YOUR USERNAME>?tab=repositories`
