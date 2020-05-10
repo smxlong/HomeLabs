@@ -12,7 +12,7 @@ their computer a "workstation") so we can work on it easily.
 2. Press `Ctrl+Shift+P` to open the command palette.
 3. Type `Clone`. A single option should appear called `Git: Clone`
 4. Select `Git: Clone`
-5. In the box that says `Provider repository URL`, type the URL to your fork of the HomeLabs
+5. In the box that says `Provide repository URL`, type the URL to your fork of the HomeLabs
    repo. This will be something like `https://github.com/<YOUR USERNAME>/HomeLabs`.
 6. A window will pop up letting you choose where to clone to repo on your workstation.
    Pick a location that is convenient for you, like your home directory.
