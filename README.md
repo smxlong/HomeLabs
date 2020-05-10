@@ -37,3 +37,4 @@ you earn to see how fast you're progressing.
 * [Lab 003: Editing a file on GitHub](./lab003/README.md) - 25 points
 * [Lab 004: Cloning your HomeLabs fork onto your computer](./lab004/README.md) - 100 points
 * [Lab 005: Building a Hello World Java application](./lab005/README.md) - 50 points
+* [Lab 006: Lab 006: Different Parts of Source Code](./lab006/README.md) - 50 points

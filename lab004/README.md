@@ -22,3 +22,7 @@ their computer a "workstation") so we can work on it easily.
 
 Once you've cloned the repo, this is where all work will happen from now on, on your
 workstation.
+
+Navigate to the `lab004` directory in the left hand nav bar of VSCode and click on the
+`README.md` file. Now you are reading this lab inside VSCode! All of your future labs
+will be done inside VSCode unless we let you know otherwise.
