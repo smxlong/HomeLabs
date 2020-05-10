@@ -23,6 +23,8 @@ from HomeLabs, you can run this command:
 git pull homelabs master
 ```
 
+> NOTE: You must have completed Lab 001 through 004 before you can do this.
+
 ## Points
 
 Each lab is worth a certain amount of points. Keep track of the points
