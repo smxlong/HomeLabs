@@ -45,7 +45,7 @@ At the end of the line is a `{` or "curly brace" character. The curly brace
 opens a "block." Blocks are used to group lines of code together.
 
 Notice how the `{` lines up with a matching `}` character at the
-very end of the file. Every opening curly brance must match up with a closing
+very end of the file. Every opening curly brace must match up with a closing
 curly brace. To keep track of all these braces, programmers add extra space
 at the beginning of lines, called "indenting," to make it easier to see that
 a group of lines is inside a block.
@@ -105,7 +105,7 @@ statement saying `Katie.eat()` meaning Katie should eat, or `Jane.eat()`
 meaning Jane should eat. `eat` is the method, `Jane` or `Katie` is the
 object.
 
-So here, `System.out` is the name of an object. It is the name of the
+Here, `System.out` is the name of an object. It is the name of the
 *standard output stream* of the program. Anything that is sent to the
 standard output stream will be displayed on the screen. Therefore, the
 line of code `System.out.println("Hello, world!");` means "Display the
