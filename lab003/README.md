@@ -19,3 +19,7 @@ To earn 25 easy points, edit this file and add your signature to the bottom.
 
 You should see the screen refresh and you'll be looking at this file again,
 this time, with your signature on the bottom!
+
+> HINT: Now that you know how to edit a file, you can edit the main
+> [README.md](../README.md) file to mark off which labs you've completed,
+> and keep track of your total points earned!
