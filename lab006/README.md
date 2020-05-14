@@ -1,5 +1,7 @@
 # Lab 006: Different Parts of Source Code
 
+### Points: 50
+
 In this lab we will look deeper at the `HelloWorld.java` file you wrote
 in the last lab.
 
