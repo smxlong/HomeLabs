@@ -4,6 +4,7 @@ Welcome to HomeLabs. This is a lab series for learning programming.
 
 ## Required software
 
+* Git
 * Java 11
 * VSCode
 
