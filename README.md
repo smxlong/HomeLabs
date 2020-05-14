@@ -39,4 +39,4 @@ you earn to see how fast you're progressing.
 * [Lab 005: Building a Hello World Java application](./lab005/README.md) - 50 points
 * [Lab 006: Lab 006: Different Parts of Source Code](./lab006/README.md) - 50 points
 * [Lab 007: Multiple Lines of Code](./lab007/README.md) - 25 points
-
+* [Lab 008: Calling methods](./lab008/README.md) - 50 points
